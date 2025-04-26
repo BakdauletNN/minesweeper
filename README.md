@@ -1,2 +1,3 @@
 # minesweeper
-minesweeper cpp
+minesweeper in c++
+
